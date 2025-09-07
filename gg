@@ -1,0 +1,19 @@
+body {
+  background-color: neonpink;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: limegreen;
+  margin: 50px;
+  border: 20px dotted orange;
+}
+
+ border: 20px dotted orange;
+
+   border-bottom: 10px dashed purple;
+
+   img {
+  width: 300px;
+  height: auto;
+  margin: 20px;
+  border: 10px solid red;
+  transform: rotate(15deg);
+}

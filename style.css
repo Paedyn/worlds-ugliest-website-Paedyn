@@ -1,0 +1,38 @@
+body {
+  background-color: neonpink;
+  font-family: "Arial", cursive, sans-serif;
+  color: rgb(253, 255, 253);
+  margin: 50px;
+ 
+}
+
+header {
+  background-color: rgb(201, 201, 159);
+  text-align: center;
+  padding: 40px;
+
+}
+
+nav ul {
+  list-style-type: square;
+  font-size: 24px;
+  background-color: rgb(114, 129, 129);
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+main {
+  background-color: rgb(94, 101, 87);
+  padding: 30px;
+  text-align: center;
+}
+
+
+footer {
+  background-color: rgb(97, 74, 97);
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+}
