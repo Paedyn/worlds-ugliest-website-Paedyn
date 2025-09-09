@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ugly Cat Showcase</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f4;
+    }
+    img {
+      max-width: 600px;
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  
+  <img src="https://tse4.mm.bing.net/th/id/OIP.1tkaam4qht4jT7-iwpPS2wHaGY?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="A uniquely intense-looking cat">
+</body>
+</html>
